@@ -1,4 +1,4 @@
-# git readme 
+ # git readme 
 # Headings
 # H1
 ## H2
@@ -15,3 +15,7 @@ All bold and italic
 <sup> Superscript </sup>
 
 > Quoting text
+
+`#0969DA`
+`rgb(9, 105, 218)`
+`hsl(212, 92%, 45%)` 
