@@ -22,4 +22,5 @@ All bold and italic
 `hsl(212, 92%, 45%)` 
 ## Links
 This site was built using [GitHub Pages](https://pages.github.com/).
-
+## Images
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
