@@ -6,12 +6,12 @@
 ###### H6
 # Styling text
 **Bold**
-* Italic *
-~~ Strikethrough ~~
+*Italic*
+~~Strikethrough~~
 ***
 All bold and italic
 ***
-<sub>Subscript</sub>
-<sup>Superscript</sup>
+<sub> Subscript </sub>
+<sup> Superscript </sup>
 
 > Quoting text
