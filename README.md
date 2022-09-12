@@ -5,7 +5,7 @@
 ### H3 ..
 ###### H6
 # Styling text
-** ** Bold
+**** Bold
 * Italic *
 ~~ Strikethrough ~~
 ***
